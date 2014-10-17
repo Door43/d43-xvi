@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xvi:home|Door43 (xvi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xvi|d43-xvi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xvi/archive/master.zip|d43-xvi.zip]]
+
+**Recent Changes**
+{{changes>ns = xvi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xvi|Ethnologue data]]
+
